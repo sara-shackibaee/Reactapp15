@@ -1,0 +1,16 @@
+.mydiv{
+    width: 200;
+    height: 200;
+    background-color: darkseagreen;
+    
+   text-align: left;
+   text-decoration: none; 
+   
+}
+p {
+    text-decoration: underline;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+li{
+    text-decoration: 'none';
+}
